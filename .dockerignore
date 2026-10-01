@@ -1,0 +1,5 @@
+**/.git
+**/bin
+**/obj
+web/node_modules
+api/src/ShopDesk.Api/wwwroot
