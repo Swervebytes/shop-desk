@@ -4,7 +4,7 @@ Shop Desk is a job tracker for a small software shop. Sign in, keep a client lis
 
 ## Live
 
-https://adam-variety-integrity-calculations.trycloudflare.com
+https://unlikely-appropriate-patrick-desktops.trycloudflare.com
 
 Demo account:
 
